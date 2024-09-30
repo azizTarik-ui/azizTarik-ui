@@ -7,8 +7,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ JS, JQuery, Vue, Ajax <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel and API  <br/>
 
-◉ The client base project i have worked:   <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Hazira - HR & Payroll system.  <br/>
 
 ◉ Reach me via email: ahammedtarikaziz@gmail.com <br/>
 
