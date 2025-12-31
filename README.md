@@ -1,11 +1,11 @@
  <h2>👋 Ahammed Tarik Aziz </h2>
  
 ◉ I have completed my graduation from AUST(Love Road, Tejgaon, Dhaka, Bangladesh) in June 13, 2023 (Spring 2022)  <br/>
-◉ Since 1 September 2024, I am working as a Jr. Software Engineer in a well reputed software company. <br/>
+◉ From 1 September 2024 to 31 April, 2025, I worked as a Jr. Software Engineer in a well reputed software company. <br/>
 ◉ I have good skills in: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ HTML, CSS, Bootstrap <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ JS, JQuery <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel and API  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ Python, Java <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ PHP, Laravel  <br/>
 
 
 ◉ Reach me via email: ahammedtarikaziz@gmail.com <br/>
